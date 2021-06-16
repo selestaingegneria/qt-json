@@ -730,4 +730,3 @@ namespace QtJson {
     }
 
 } //end namespace
-
